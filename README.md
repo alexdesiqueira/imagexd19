@@ -4,3 +4,6 @@ Berkeley Institute for Data Science
 UC Berkeley
 
 *Wherever repo you want to maintain your materials, please use this to centralize all the links that the attendees will need to access codes and exercises*
+
+
+## [Deep learning tutorial (Ariel Rokem)](https://github.com/arokem/conv-nets)
