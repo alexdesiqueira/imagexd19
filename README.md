@@ -1,8 +1,5 @@
-# ImageXD'19
-Image Across Domains Conference - Sep 11-13th
-Berkeley Institute for Data Science
-UC Berkeley
-Proceedings of [ImageXD'19](https://dani-lbnl.github.io/)
+# ImageXD'19: Image Across Domains Conference - Sep 11-13th
+## Proceedings of [ImageXD'19](https://dani-lbnl.github.io/)
 
 # Tutorials:
 ## [Scikit-image (Stefan)]() 
