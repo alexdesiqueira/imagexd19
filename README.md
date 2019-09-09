@@ -5,8 +5,8 @@
 
 # Tutorials:
 
-- [Scikit-image (Stefan)]() 
-- [Image processing in 3D (Dani & Alex)](https://github.com/BIDS/ISVC2019)
+- [Scikit-image (Stefan)](https://github.com/imagexd/2019-tutorial-skimage)
+- [Image processing in 3D (Dani & Alex)](https://github.com/imagexd/2019-tutorial-skimage)
 - [Deep learning (Ariel & Henry)](https://github.com/arokem/conv-nets)
 - [Image registration (Maryana & Matt]()
 
